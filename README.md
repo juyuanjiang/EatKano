@@ -16,7 +16,9 @@
 
 
 
-线上版本:https://juyuanjiang.github.io/EatKano/
+线上版本:https://juyuanjiang.github.io/EatQIUGANGAO/
+
+
 
 源码:https://arcxingye.github.io/EatKano/index.html
 
