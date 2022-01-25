@@ -6,7 +6,7 @@
 # 枸橼酱
 
 网页小游戏
-
+测试你的手速
 </div>
 
 
@@ -16,8 +16,8 @@
 
 
 
-线上版本:https://xingye.me/game/eatkano/index.php
+线上版本:https://juyuanjiang.github.io/EatKano/
 
-源码Github Page:https://arcxingye.github.io/EatKano/index.html
+源码:https://arcxingye.github.io/EatKano/index.html
 
 
